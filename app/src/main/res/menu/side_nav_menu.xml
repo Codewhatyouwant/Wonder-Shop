@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/side_nav_style"
+            android:icon="@drawable/ic_notifications_black_24dp"
+            android:title="Life Style"/>
+        <item
+            android:id="@+id/side_nav_grossary"
+            android:icon="@drawable/ic_notifications_black_24dp"
+            android:title="Grossary"/>
+        <item
+            android:id="@+id/side_nav_medical"
+            android:icon="@drawable/ic_notifications_black_24dp"
+            android:title="Medical"/>
+        <item
+            android:id="@+id/side_nav_hotel"
+            android:icon="@drawable/ic_notifications_black_24dp"
+            android:title="Hotel"/>
+    </group>
+
+
+</menu>
